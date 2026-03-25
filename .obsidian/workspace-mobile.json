@@ -20,8 +20,149 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "3448b90f1e1bc012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/1 Primitive Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 Primitive Era"
+            }
+          },
+          {
+            "id": "0fb1b6593e993633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/2 Divinity Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 Divinity Era"
+            }
+          },
+          {
+            "id": "c59b23d7063fa2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/3 Human Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 Human Era"
+            }
+          },
+          {
+            "id": "e4557038770aa9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/4 Calamity Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 Calamity Era"
+            }
+          },
+          {
+            "id": "018a74e1d97cc439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/5 Warring Orcs Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 Warring Orcs Era"
+            }
+          },
+          {
+            "id": "4fa5323dad5da39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/6 Divine Barrier Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 Divine Barrier Era"
+            }
+          },
+          {
+            "id": "49d3595340bed384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Politics/Major Factions/Saphijerva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saphijerva"
+            }
+          },
+          {
+            "id": "5231e3357e82a2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Politics/Major Factions/Labinsk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Labinsk"
+            }
+          },
+          {
+            "id": "6bdf440b59936a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Politics/Minor Factions/Konya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Konya"
+            }
+          },
+          {
+            "id": "f6f2ce0727b101ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tenets of Fanteru"
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -112,6 +253,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,6 +272,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,7 +286,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.base",
+            "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -166,12 +309,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f0c9453f979be05",
+  "active": "f6f2ce0727b101ad",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.base",
-    "Welcome.md",
-    "create a link.md",
-    "README.md"
+    "Factions and Politics/Religions/Uftan.md",
+    "Factions and Politics/Religions/Tenets of Fanteru.md",
+    "Factions and Politics/Religions/Adjudico.md",
+    "History/Divine Barrier.md",
+    "Factions and Politics/Major Factions/Nubin.md",
+    "Factions and Politics/Religions",
+    "Factions and Politics/Major Factions/The Congregation of the Arcane.md",
+    "Factions and Politics/Minor Factions/Uftan Confederation.md",
+    "Factions and Politics/Major Factions/Xiuhan.md",
+    "Factions and Politics/Minor Factions/Barier.md",
+    "Factions and Politics/Minor Factions/Hafdom.md",
+    "Factions and Politics/Minor Factions/Q'ani.md",
+    "Factions and Politics/Minor Factions/Drubert.md",
+    "Factions and Politics/Minor Factions/Lithiana.md",
+    "Factions and Politics/Major Factions/Gernath.md",
+    "History/The Calamity.md",
+    "Factions and Politics/Untitled.md",
+    "Factions and Politics/Minor Factions",
+    "Factions and Politics/Major Factions",
+    "Magic and Technology/Divine Channeling.md",
+    "Magic and Technology/Theosis.md",
+    "Magic and Technology/Souls.md",
+    "Magic and Technology/Spellcasting.md",
+    "Magic and Technology/Spellcraft.md",
+    "Magic and Technology/Technological Progress.md",
+    "History/Necromancy War.md",
+    "Flora, Fauna, and Sapient Races/Aasimar.md",
+    "Flora, Fauna, and Sapient Races/Demonkin.md",
+    "Flora, Fauna, and Sapient Races/Beastmen.md",
+    "Cosmology/Material Plane",
+    "Untitled",
+    "Geography/Maps",
+    "Narratives/Short Stories",
+    "Narratives/Ashes of Calamity",
+    "Narratives/Dying Throes",
+    "Narratives",
+    "Untitled.canvas"
   ]
 }

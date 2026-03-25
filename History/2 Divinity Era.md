@@ -1,0 +1,1 @@
+Divine influence brought about modifications to sapient life. For example, humans became elves, halflings became dwarves, giants became goliaths. The influence could be subtle or drastic. Beastmen were uplifted by some gods.

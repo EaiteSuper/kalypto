@@ -1,0 +1,1 @@
+It is impossible for any being other than a primordial to become a deity. All living beings aside from primordials and deities have souls, and the process by which primordials consume souls and become dependent on them in theosis is unique to them. However, mortal and other living beings can participate in [[Divine Channeling]].

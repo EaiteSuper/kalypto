@@ -1,0 +1,1 @@
+Mortals and other living beings can enter a state wherein their body and soul is able to tap into a deity's divine energy and create magical effects through spellcraft or raw power. Some may become so adept at channeling that they can sap deities at will, although this would not go unnoticed by that deity.

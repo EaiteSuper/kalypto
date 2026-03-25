@@ -1,0 +1,1 @@
+Sapient life began with the evolution of humans, halflings, and giants.

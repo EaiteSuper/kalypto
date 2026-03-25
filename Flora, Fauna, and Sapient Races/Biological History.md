@@ -1,0 +1,1 @@
+Panspermia, or the seeding of life, occurred on Shaelsk and later its separated parts.
