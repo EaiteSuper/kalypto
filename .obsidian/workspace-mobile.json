@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
+                "file": "Magic and Technology/Souls and Reincarnation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tenets of Fanteru"
+              "title": "Souls and Reincarnation"
             }
           }
         ],
@@ -253,7 +253,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
+            "file": "Magic and Technology/Souls and Reincarnation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -272,7 +272,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
+            "file": "Magic and Technology/Souls and Reincarnation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -286,7 +286,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Factions and Politics/Religions/Tenets of Fanteru.md",
+            "file": "Magic and Technology/Souls and Reincarnation.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -311,8 +311,12 @@
   },
   "active": "f6f2ce0727b101ad",
   "lastOpenFiles": [
-    "Factions and Politics/Religions/Uftan.md",
+    "Geography/Underworld.md",
+    "Geography/Abyss.md",
+    "Geography/Feywild.md",
     "Factions and Politics/Religions/Tenets of Fanteru.md",
+    "Narratives/Characters",
+    "Factions and Politics/Religions/Uftan.md",
     "Factions and Politics/Religions/Adjudico.md",
     "History/Divine Barrier.md",
     "Factions and Politics/Major Factions/Nubin.md",
@@ -332,21 +336,17 @@
     "Factions and Politics/Major Factions",
     "Magic and Technology/Divine Channeling.md",
     "Magic and Technology/Theosis.md",
-    "Magic and Technology/Souls.md",
+    "Magic and Technology/Souls and Reincarnation.md",
     "Magic and Technology/Spellcasting.md",
     "Magic and Technology/Spellcraft.md",
     "Magic and Technology/Technological Progress.md",
     "History/Necromancy War.md",
-    "Flora, Fauna, and Sapient Races/Aasimar.md",
-    "Flora, Fauna, and Sapient Races/Demonkin.md",
-    "Flora, Fauna, and Sapient Races/Beastmen.md",
     "Cosmology/Material Plane",
     "Untitled",
     "Geography/Maps",
     "Narratives/Short Stories",
     "Narratives/Ashes of Calamity",
     "Narratives/Dying Throes",
-    "Narratives",
     "Untitled.canvas"
   ]
 }
