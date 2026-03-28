@@ -1,0 +1,1 @@
+This school of magic is also called alteration.

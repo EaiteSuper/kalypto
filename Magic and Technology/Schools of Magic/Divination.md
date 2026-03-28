@@ -1,0 +1,1 @@
+This school of magic can also be called prophetizing or soothsaying.

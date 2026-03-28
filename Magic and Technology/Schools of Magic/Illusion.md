@@ -1,0 +1,1 @@
+This school of magic can also be called hallucinatory or false magic.
