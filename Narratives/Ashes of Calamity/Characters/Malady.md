@@ -1,0 +1,5 @@
+Malady, or the Lady of Bitter Tongue, was an Archfey who resided in the [[Feywild of Sharelle]]. She was known for her sharp rebukes that hid a mellow and well-meaning personality. As a Fey, she commanded power and grace resembling the frost of winter and dangerous flora sprouting in spring.
+
+Shortly following the defeat of the feral head of Demogorgon and his armies during the [[Demon Invasion of the Feywild of Sharelle]], Malady and her two Archfey sisters [[Kilter]] and [[Ecstasy]] established courts across the volcanic isle. These courts brought the Fey living there together under the Archfeys' protection and guidance. Fey settlements were split among these courts according to their preferred Archfey benefactor or chose to remain out of a court's jurisdiction. Court-less settlements tended to be more dangerous and people living there less accountable.
+
+By the start of the [[Ashes of Calamity Overview|Ashes of Calamity]] campaign, Malady was missing and her court settlements were defenseless. 

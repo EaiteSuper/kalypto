@@ -1,0 +1,3 @@
+Kilter, or the Queen of Equilibrium, was an Archfey who resided in the [[Feywild of Sharelle]]. She was known for her intense and obsessive need for order and distrust of outliers. Her courts were known for their bureaucratic efficiency and prompt service. She commanded powers akin to the humid and dry breeze of spring and fall respectively.
+
+Shortly following the defeat of the feral head of Demogorgon and his armies during the [[Demon Invasion of the Feywild of Sharelle]], Kilter and her two Archfey sisters [[Ecstasy]] and [[Malady]] established courts across the volcanic isle.

@@ -1,0 +1,3 @@
+Ecstasy, or the Lady of Forgotten Woes, was an Archfey who resided in the [[Feywild of Sharelle]]. She was known for a carefree charisma, infinite curiosity, love for gossip, and unserious attitude. She commanded powers akin to the drowsy warmth and body heat of summer. An exaggerated endotherm, Ecstasy had an unmistakable aura of warmth and activity.
+
+Shortly following the defeat of the feral head of Demogorgon and his armies during the [[Demon Invasion of the Feywild of Sharelle]], Ecstasy and her two Archfey sisters [[Kilter]] and [[Malady]] established courts across the volcanic isle.

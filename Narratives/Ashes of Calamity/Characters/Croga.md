@@ -1,0 +1,3 @@
+Croga was a summer pixie who resided in a small village of pixies within [[Malady]]'s court in the [[Feywild of Sharelle]]. She was known for an incredibly impatient attitude and would go out of her way to speed other pixies' activities up to get them to interact with her. She thrived on social interactions and hated when others were injured or incapable of work or play.
+
+By the start of the [[Ashes of Calamity Overview|Ashes of Calamity]] campaign, Croga was drained of natural magicks and became incapable of performing summer-aligned spells and eminence. Her friend and admirer, [[Buair]], set out on a quest to find the missing [[Malady]] and save Croga from her illness. 

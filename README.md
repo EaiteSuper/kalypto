@@ -1,3 +1,5 @@
-# kalypto
+# Universe of Kalypto
 
-test test
+This is a fantasy and sci/fi world building project about a fictional universe named Kalypto. The primary author is Micah Herndon, while contributory authors include but are not limited to Brandon Huff, Chris Pham, Quincy DeLong, and Austin Maloney. This project is an experimental story workshop looking at the changes in historical ages on people in society with the addition of fantasy races, magic, extraterrestrial influence, interdimensional travel, planetary and other astronomical events, and conceptual entropy reversal. With these factors, it is possible to create interesting and meaningful stories for others' consumption while building the fictional universe. 
+
+The primary motivation for this project was and still is the development of DND and/or other TTRPG campaigns for use in a small group setting. The Obsidian wiki is intended to allow for increased consistency across campaigns, more informed idea construction, and documentation towards a hypothetical end-state. A secondary interest for this project is the development of video games of varying genres with their environment, story foundation, and characters being based on or created within Kalypto. Monetary compensation is welcome but is not required.
